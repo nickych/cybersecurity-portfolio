@@ -1,4 +1,4 @@
-# Nicky Chibz – Cybersecurity Portfolio
+# Nicky Chibz – Cybersecurity 
 
 Welcome to my cybersecurity portfolio. I'm a passionate **Cybersecurity Analyst**, **Network Engineer**, and **Linux Enthusiast** with experience in securing digital infrastructure, threat analysis, penetration testing, and compliance auditing. Here, you'll find my projects, certifications, and tools that showcase my journey in cybersecurity.
 
